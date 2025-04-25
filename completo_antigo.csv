@@ -1,0 +1,368 @@
+ESPECIALIDADE,Código,PROCEDIMENTO_2016,CHO_ANTIGO
+DIAGNOSE E VISTORIA,81000065,Consulta odontológica inicial (NORMAS: 1),160
+DIAGNOSE E VISTORIA,81000049,"Consulta odontológica de Urgência (NORMAS: 2, 3, 4)",169
+DIAGNOSE E VISTORIA,81000057,"Consulta odontológica de Urgência 24 hs (NORMAS: 2, 3, 4)",303
+DIAGNOSE E VISTORIA,81000073,Consulta odontológica para avaliação técnica de auditoria,118
+DIAGNOSE E VISTORIA,00010140,"Falta não justificada à consulta (NORMAS: 5, 6)",130
+DIAGNOSE E VISTORIA,00010150,"Falta não justificada à perícia (NORMAS: 5, 6)",118
+DIAGNOSE E VISTORIA,00010160,"Vistoria de Instalações (NORMAS: 7, 8, 9)",430
+RADIOLOGIA,81000421,"Radiografia periapical (NORMAS: 20, 21, 22, 23, 24, 25, 26)",27
+RADIOLOGIA,81000375,"Radiografia interproximal - bite-wing (NORMAS:20, 21, 22, 23, 24, 25, 26)",27
+RADIOLOGIA,81000383,"Radiografia oclusal (NORMAS: 20, 21)",61
+RADIOLOGIA,81000430,"Radiografia póstero-anterior (NORMAS: 20, 21)",135
+RADIOLOGIA,81000340,"Radiografia da ATM (3 incidências) (NORMAS: 20, 21)",277
+RADIOLOGIA,81000405,"Radiografia panorâmica de mandíbula/maxila (ortopantomografia) (NORMAS: 20, 21)",130
+RADIOLOGIA,81000480,"Telerradiografia com traçado cefalométrico (NORMAS: 20, 21,27)",178
+RADIOLOGIA,81000472,"Telerradiografia (NORMAS: 20, 21, 27)",134
+RADIOLOGIA,81000367,"Radiografia da mão e punho - carpal (NORMAS: 20, 21)",151
+RADIOLOGIA,81000308,Modelos ortodônticos (par) (NORMA: 27),148
+RADIOLOGIA,81000456,Slide (máximo: 8 unidades) (NORMA: 27),26
+RADIOLOGIA,81000278,Fotografia (máximo: 8 unidades) (NORMA: 27),26
+RADIOLOGIA,00020330,"Documentação ortodôntica (NORMAS: 20, 21, 22, 27, 31)",816
+RADIOLOGIA,81000413,"Radiografia panorâmica de mandíbula/maxila (ortopantomografia) com traçado cefalométrico (NORMAS: 20, 21)",178
+RADIOLOGIA,00020370,"Tomografia computadorizada: 1 ATM (NORMAS: 20, 21, 22, 28, 29)",512
+RADIOLOGIA,00020375,"Tomografia computadorizada: 2 ATM's (NORMAS: 20, 21, 22, 28, 29)",805
+RADIOLOGIA,00020380,"Tomografia computadorizada: 1 seio da face (NORMAS: 20, 21, 22, 28, 29)",460
+RADIOLOGIA,00020385,"Tomografia computadorizada: 2 seios da face (NORMAS: 20, 21, 22, 28, 29)",670
+RADIOLOGIA,00020386,"Tomografia computadorizada: 1 dente (NORMAS: 20, 21, 28, 29)",324
+RADIOLOGIA,00020387,"Tomografia computadorizada: 2 dentes (NORMAS: 20, 21, 28, 29)",351
+RADIOLOGIA,00020388,"Tomografia computadorizada: 3 dentes (NORMAS: 20, 21, 28, 29)",459
+RADIOLOGIA,00020389,"Tomografia computadorizada: 4 dentes (NORMAS: 20, 21, 28, 29)",568
+RADIOLOGIA,00020390,"Tomografia computadorizada: maxila ou mandíbula total (NORMAS: 20, 21, 28, 29)",676
+TESTES E EXAMES LABORATORIAIS,00030410,Teste de risco de cárie,102
+TESTES E EXAMES LABORATORIAIS,84000252,Teste de PH salivar,102
+TESTES E EXAMES LABORATORIAIS,84000244,Teste de fluxo salivar,102
+TESTES E EXAMES LABORATORIAIS,81000111,Diagnóstico anatomopatológico em citologia esfoliativa na região buco-maxilo- facial,129
+TESTES E EXAMES LABORATORIAIS,00030422,Exame anatomopatológico pré-operatório com deslocamento da peça ao laboratório,303
+TESTES E EXAMES LABORATORIAIS,81000138,Diagnóstico anatomopatológico em material de biópsia na região buco-maxilo- facial,193
+TESTES E EXAMES LABORATORIAIS,81000154,Diagnóstico anatomopatológico em peça cirúrgica na região buco-maxilo-facial,193
+TESTES E EXAMES LABORATORIAIS,81000170,Diagnóstico anatomopatológico em punção na região buco-maxilo-facial,193
+TESTES E EXAMES LABORATORIAIS,00030424,Revisão de lâmina,238
+TESTES E EXAMES LABORATORIAIS,00030425,Painel de Imuno-histoquímica (imunoperoxidase e imunofluorescência) para diagnóstico diferencial de neoplasias,1430
+TESTES E EXAMES LABORATORIAIS,00030426,Painel de Imuno-histoquímica (imunoperoxidase e imunofluorescência) para determinação de prognóstico de neoplasias,1430
+TESTES E EXAMES LABORATORIAIS,00030427,Exame anatomopatológico pré-operatório com acompanhamento do patologista em sala cirúrgica,436
+TESTES E EXAMES LABORATORIAIS,00030428,Cultura para bactérias anaeróbicas,69
+TESTES E EXAMES LABORATORIAIS,82001103,Punção aspirativa na região buco-maxilo-facial,280
+TESTES E EXAMES LABORATORIAIS,82000239,Biópsia de boca,280
+PREVENÇÃO,84000198,"Profilaxia: polimento coronário (NORMAS: 50, 52)",136
+PREVENÇÃO,84000139,"Atividade educativa em saúde bucal (NORMAS: 50, 51, 52)",84
+PREVENÇÃO,84000090,Aplicação tópica de flúor (NORMAS: 50),75
+PREVENÇÃO,84000163,"Controle de biofilme (placa bacteriana) (NORMAS: 50, 52, 53, 55)",75
+PREVENÇÃO,85300047,"Raspagem supra-gengival (por arcada) (NORMAS: 50, 54,55)",176
+PREVENÇÃO,84000201,Remineralização (4 sessões) ( P. inicial) (NORMAS: 56),300
+ODONTOPEDIATRIA,84000112,"Aplicação tópica de verniz fluoretado (NORMAS: 100, 101)",90
+ODONTOPEDIATRIA,84000074,"Aplicação de selante de fóssulas e fissuras (por elemento) (NORMAS: 100, 102)",93
+ODONTOPEDIATRIA,84000058,"Aplicação de selante - técnica invasiva (por elemento) (NORMAS: 100, 102)",109
+ODONTOPEDIATRIA,84000031,Aplicação de cariostático (NORMAS: 100),86
+ODONTOPEDIATRIA,84000201,"Remineralização (fluorterapia) (4 sessões) (P. inicial) (NORMAS: 100, 103)",300
+ODONTOPEDIATRIA,85100242,Adequação do meio bucal (com ionômero de vidro ou IRM) (por hemiarco) (NORMA: 100),172
+ODONTOPEDIATRIA,85100161,"Restauração em ionômero de vidro até 4 faces (NORMAS: 100, 105, 106, 107)",154
+ODONTOPEDIATRIA,00051090,"Restauração preventiva (ionômero + selante) (NORMAS: 100, 105, 106, 107)",156
+ODONTOPEDIATRIA,83000046,"Coroa de aço em dente decíduo - Rx inicial periapical e Rx final interproximal (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",326
+ODONTOPEDIATRIA,83000020,"Coroa de acetato em dente decíduo - Rx inicial periapical e Rx final interproximal (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",326
+ODONTOPEDIATRIA,83000062,"Coroa de policarbonato em dente decíduo - Rx inicial periapical e Rx final interproximal (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",326
+ODONTOPEDIATRIA,85100013,Capeamento pulpar direto (NORMA: 100),179
+ODONTOPEDIATRIA,85200085,Restauração temporária / tratamento expectante (NORMA: 100),120
+ODONTOPEDIATRIA,85200042,Pulpotomia - Rx inicial periapical e Rx final periapical (P. final) (NORMA: 100),206
+ODONTOPEDIATRIA,83000151,Tratamento endodôntico em dente decíduo - Rx final periapical (P. final) (NORMA: 100),372
+ODONTOPEDIATRIA,83000089,Exodontia simples de decíduo (NORMA: 100),117
+ODONTOPEDIATRIA,83000097,"Mantenedor de espaço fixo (P. final com mantenedor) (NORMAS: 100,104)",543
+ODONTOPEDIATRIA,83000100,"Mantenedor de espaço removível (P. final com mantenedor) (NORMAS: 100,104)",840
+ODONTOPEDIATRIA,85400246,Órtese miorrelaxante (placa oclusal estabilizadora) (P. final com placa) (NORMA: 100),840
+ODONTOPEDIATRIA,86000551,Plano inclinado (P. final com plano) (NORMA: 100),460
+ODONTOPEDIATRIA,81000014,"Condicionamento em Odontologia (por sessão, máximo: 3) (NORMA: 100)",130
+ODONTOPEDIATRIA,82001715,Ulotomia (NORMA: 100),190
+ODONTOPEDIATRIA,82001707,Ulectomia (NORMA: 100),204
+ODONTOPEDIATRIA,85100099,"Restauração de amálgama 1 face (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",137
+ODONTOPEDIATRIA,85100102,"Restauração de amálgama 2 faces (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",172
+ODONTOPEDIATRIA,85100110,"Restauração de amálgama 3 faces (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",202
+ODONTOPEDIATRIA,85100129,"Restauração de amálgama 4 faces (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",247
+ODONTOPEDIATRIA,85100196,"Restauração em resina fotopolimerizável 1 face (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",165
+ODONTOPEDIATRIA,85100200,"Restauração em resina fotopolimerizável 2 faces (P. inicial e P. Final) (NORMAS: 100, 105, 106, 107)",174
+ODONTOPEDIATRIA,85100218,"Restauração em resina fotopolimerizável 3 faces (P. inicial e P. Final) (NORMAS: 100, 105, 106, 107)",202
+ODONTOPEDIATRIA,85100226,"Restauração em resina fotopolimerizável 4 faces (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",247
+ODONTOPEDIATRIA,85100064,"Faceta direta em resina fotopolimerizável (P. inicial e P. final) (NORMAS: 100, 105, 106, 107)",276
+ODONTOPEDIATRIA,85400211,Núcleo de preenchimento em ionômero de vidro ou em resina (P. inicial),228
+ODONTOPEDIATRIA,85100234,Tratamento de fluorose,220
+ODONTOPEDIATRIA,82001251,Reimplante dentário com contenção (por elemento) - Rx final periapical (P. final) (NORMA: 100),435
+ODONTOPEDIATRIA,87000164,"Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 100, 108)",700
+ODONTOPEDIATRIA,87000180,"Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 100, 108)",700
+ODONTOPEDIATRIA,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM (NORMA: 100),220
+ODONTOPEDIATRIA,82000883,Frenulectomia labial (P. inicial) (NORMA: 100),328
+ODONTOPEDIATRIA,82000891,Frenulectomia lingual (P. inicial) (NORMA: 100),328
+ODONTOPEDIATRIA,82000026,"Acompanhamento de tratamento/procedimento cirúrgico em odontologia (1 por orçamento, desde que haja procedimento cirúrgico previsto) (NORMA: 100)",167
+ODONTOPEDIATRIA,00084090,"Proservação pré-cirúrgica (1 por orçamento, desde que haja procedimento cirúrgico previsto) (NORMA: 100)",168
+ODONTOPEDIATRIA,82001502,Tracionamento cirúrgico com finalidade ortodôntica - Rx inicial periapical (P. Inicial e P. Final) (NORMA: 100),594
+ODONTOPEDIATRIA,85100048,"Colagem de fragmentos dentários (por elemento) (P. Final) (NORMAS: 100, 106)",335
+DENTÍSTICA,85100099,"Restauração de amálgama - 1 face (P. inicial e P. Final) (NORMAS: 200, 202, 203, 204, 205, 206)",137
+DENTÍSTICA,85100102,"Restauração de amálgama - 2 faces (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206)",172
+DENTÍSTICA,85100110,"Restauração de amálgama - 3 faces (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206)",202
+DENTÍSTICA,85100129,"Restauração de amálgama - 4 faces (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206)",247
+DENTÍSTICA,00062040,"Restauração de amálgama PIN - Rx final periapical (P. inicial e P. Final) (NORMAS: 200, 202, 203, 204, 205, 206)",261
+DENTÍSTICA,85100196,"Restauração em resina fotopolimerizável 1 face (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",165
+DENTÍSTICA,85100200,"Restauração em resina fotopolimerizável 2 faces (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",174
+DENTÍSTICA,85100218,"Restauração em resina fotopolimerizável 3 faces (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",202
+DENTÍSTICA,85100226,"Restauração em resina fotopolimerizável 4 faces (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",247
+DENTÍSTICA,85100064,"Faceta direta em resina fotopolimerizável (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 205, 206)",276
+DENTÍSTICA,00062090,"Fechamento de diastema (por faces: mesial e/ou distal, máximo 2 por elemento) (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 205, 206)",335
+DENTÍSTICA,00062095,"Reanatomização (por elemento) (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 205, 206)",420
+DENTÍSTICA,85400211,Núcleo de preenchimento em ionômero de vidro ou em resina (P. inicial),228
+DENTÍSTICA,85400025,"Ajuste Oclusal por desgaste seletivo (por sessão, máximo de 3) (P. inicial) (NORMAS: 205, 206)",167
+DENTÍSTICA,00062160,Pinos de retenção - Rx periapical inicial e Rx periapical final ( P. inicial e P. final),21
+DENTÍSTICA,85100234,Tratamento de fluorose - microabrasão (por elemento),220
+DENTÍSTICA,85200018,Clareamento de dente desvitalizado - Rx inicial periapical (P. inicial),493
+DENTÍSTICA,85100161,"Restauração em ionômero de vidro até 4 faces (NORMAS: 200, 201, 202, 203, 204, 205, 206)",154
+DENTÍSTICA,85400505,Remoção de trabalho protético,102
+DENTÍSTICA,87000040,"Coroa de acetato em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",326
+DENTÍSTICA,87000059,"Coroa de aço em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",326
+DENTÍSTICA,87000067,"Coroa de policarbonato em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206)",326
+DENTÍSTICA,85400076,Coroa provisória com pino (P. inicial) (NORMA: 202),224
+DENTÍSTICA,85400084,Coroa provisória sem pino (P. inicial) (NORMA: 202),224
+DENTÍSTICA,00062215,"Coroa provisória prensada em resina (só até 2º pré-molar ou com 2 ou mais elementos) (P. inicial) (NORMAS: 202, 209)",460
+DENTÍSTICA,85200026,Preparo para núcleo intrarradicular,135
+DENTÍSTICA,85200077,Remoção de núcleo intrarradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. Final),298
+DENTÍSTICA,85300055,Remoção dos fatores de retenção do Biofilme Dental (Placa Bacteriana) - identificação obrigatória no odontograma (2 arcadas) (P.inicial) (NORMA: 207),163
+DENTÍSTICA,85200085,Restauração temporária / tratamento expectante,120
+DENTÍSTICA,85100013,Capeamento pulpar direto,179
+DENTÍSTICA,85400475,Reembasamento de coroa provisória (máximo: 2 por elemento) (NORMA: 209),91
+DENTÍSTICA,85400467,Recimentação de trabalhos protéticos,150
+DENTÍSTICA,85400246,Órtese miorrelaxante (placa oclusal estabilizadora) (P. Final com placa),840
+DENTÍSTICA,84000074,Aplicação de selante de fóssulas e fissuras,93
+DENTÍSTICA,84000058,Aplicação de selante - técnica invasiva,109
+DENTÍSTICA,85100242,Adequação do meio bucal (com ionômero de vidro ou IRM) (por hemiarco),172
+DENTÍSTICA,85400530,"Restauração em cerômero - onlay - Rx inicial periapical e Rx interproximal final (P. inicial e P. Final) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",1108
+DENTÍSTICA,85400548,"Restauração em cerômero - inlay - Rx inicial periapical e Rx interproximal final (P. inicial e P. Final) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",1108
+DENTÍSTICA,85400513,"Restauração em cerâmica pura - inlay - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206, 208)",1147
+DENTÍSTICA,85400521,"Restauração em cerâmica pura - onlay - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206, 208)",1147
+DENTÍSTICA,85400114,"Coroa total em cerômero - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (só até 2º pré-molar) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",985
+DENTÍSTICA,85400556,"Restauração metálica fundida - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206, 208)",570
+DENTÍSTICA,85400181,"Faceta em cerâmica pura (só até canino) Rx inicial periapical (P. inicial e P. final) (NORMAS: 200, 202, 203, 205, 206, 208)",1680
+DENTÍSTICA,85400157,"Coroa total metalo-cerâmica - Rx inicial periapical e Rx interproximal final (P. inicial e P. Final) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",1680
+DENTÍSTICA,85400149,"Coroa total metálica - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 202, 203, 204, 205, 206, 208)",656
+DENTÍSTICA,85400106,"Coroa total em cerâmica pura - Rx inicial periapical e Rx interproximal final (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",2100
+DENTÍSTICA,85400092,"Coroa total acrílica prensada (só até canino)  Rx inicial periapical (P. inicial e P. final) (NORMAS: 200, 201, 202, 203, 204, 205, 206, 208)",562
+DENTÍSTICA,00105430,Núcleo cerâmico confeccionado em laboratório (só até canino) - Rx inicial periapical Rx final periapical (P. inicial e P. Final),392
+DENTÍSTICA,85400262,"Pino pré fabricado (fibra de carbono, fibra de vidro ou metálico) - Rx inicial periapical e Rx final periapical (P. inicial e P. Final)",386
+DENTÍSTICA,85400220,Núcleo metálico fundido - Rx inicial periapical e Rx final periapical (P. inicial e P. final),401
+DENTÍSTICA,87000164,Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 211),700
+DENTÍSTICA,87000180,Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 211),700
+DENTÍSTICA,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM,220
+DENTÍSTICA,82001251,Reimplante dentário com contenção (por elemento) - Rx final periapical (P. final),435
+DENTÍSTICA,85100048,Colagem de fragmentos dentários (por elemento) (P. Final) (NORMA: 202),335
+DENTÍSTICA,85300012,"Dessensibilização dentária (por segmento, até 6)",106
+DENTÍSTICA,00084045,"Dessensibilização dentinária a laser (por segmento, até 6)",160
+DENTÍSTICA,85300055,Remoção dos fatores de retenção do Biofilme Dental (Placa Bacteriana) (2 arcadas) (identificação obrigatória no odontograma) (P. inicial) (NORMA: 207),163
+ENDODONTIA,85200166,"Tratamento endodôntico unirradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 300, 301, 302, 304, 305)",491
+ENDODONTIA,85200140,"Tratamento endodôntico birradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. Final) (NORMAS: 300, 301, 302, 304, 305)",583
+ENDODONTIA,85200158,"Tratamento endodôntico multirradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 300, 301, 302, 304, 305)",944
+ENDODONTIA,85200115,"Retratamento endodôntico unirradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 300, 301, 302, 304, 305)",529
+ENDODONTIA,85200093,"Retratamento endodôntico birradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 300, 301, 302, 304, 305)",727
+ENDODONTIA,85200107,"Retratamento endodôntico multirradicular - Rx periapical inicial e Rx periapical final(P. inicial e P. final) (NORMAS: 300, 301, 302, 304, 305)",1233
+ENDODONTIA,85200123,"Tratamento de perfuração endodôntica - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 300, 302, 304, 305)",339
+ENDODONTIA,85200077,Remoção de núcleo intrarradicular - Rx periapical inicial e Rx periapical final (P. inicial e P. final),298
+ENDODONTIA,85100013,Capeamento pulpar direto,179
+ENDODONTIA,85200042,Pulpotomia - Rx inicial periapical e Rx final periapical (P. final),206
+ENDODONTIA,85200018,Clareamento de dente desvitalizado - Rx inicial (P. inicial) (NORMA: 303),493
+ENDODONTIA,85200026,Preparo para núcleo intrarradicular,135
+ENDODONTIA,85200131,"Tratamento endodôndico de dente com rizogênese incompleta - Rx periapical inicial e Rx periapical final (por sessão, máximo: 6) ( P. inicial e P. final)",203
+ENDODONTIA,85100056,"Curativo de demora em endodontia (por sessão, máximo 02 por dente)",267
+ENDODONTIA,85200050,Remoção de corpo estranho intracanal - Rx periapical inicial e Rx periapical final (por corpo estranho) (P. inicial e P. final),233
+ENDODONTIA,82001030,"Incisão e Drenagem intra-oral de abscesso, hematoma e/ou flegmão da região buco-maxilo-facial",300
+ENDODONTIA,85400505,Remoção de trabalho protético,102
+ENDODONTIA,85400076,Coroa provisória com pino (P. inicial),224
+ENDODONTIA,85400084,Coroa provisória sem pino (P. inicial),224
+ENDODONTIA,85400211,Núcleo de preenchimento em ionômero de vidro ou em resina (P. inicial),228
+ENDODONTIA,85200085,Restauração temporária / tratamento expectante,120
+ENDODONTIA,82000182,Apicetomia unirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),461
+ENDODONTIA,82000174,Apicetomia unirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),528
+ENDODONTIA,82000085,Apicetomia birradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),546
+ENDODONTIA,82000077,Apicetomia birradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),616
+ENDODONTIA,82000166,Apicetomia multirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),632
+ENDODONTIA,82000158,Apicetomia multirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final),702
+ENDODONTIA,87000164,Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 306),700
+ENDODONTIA,87000180,Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 306),700
+ENDODONTIA,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM,220
+PERIODONTIA,00084000,"Tratamento não cirúrgico de periodontite leve (bolsas de 3,0 a 4,5 mm) (Periograma obrigatório) (por segmento: até 6) (P. inicial com periograma) (NORMAS: 400, 401, 402, 403, 405)",175
+PERIODONTIA,00084010,"Tratamento não cirúrgico de periodontite avançada (bolsas a partir de 4,5 mm) (Periograma obrigatório) (por segmento: até 6) (P. inicial com periograma) (NORMAS: 400, 401, 402, 403, 406)",236
+PERIODONTIA,85300063,Tratamento de abscesso periodontal agudo (por elemento),209
+PERIODONTIA,85300071,Tratamento de gengivite necrosante aguda - GNA (duas arcadas),704
+PERIODONTIA,84000163,"Controle de biofilme (placa bacteriana) - por sessão, máximo de: 2 p/ periodontite leve e 3 para avançada (NORMAS: 404, 405, 406)",75
+PERIODONTIA,00084035,Tratamento da periodontite ulcerativa necrosante aguda (duas arcadas),1575
+PERIODONTIA,85300012,Dessensibilização dentária (por segmento),106
+PERIODONTIA,00084045,"Dessensibilização dentinária a laser (por segmento, até",160
+PERIODONTIA,85300020,"Imobilização dentária em dentes permanentes (por segmento, até 6) (P. Inicial com laudo) (NORMA: 407)",290
+PERIODONTIA,85400025,"Ajuste Oclusal por desgaste seletivo (por sessão, máximo 3) (P. inicial) (NORMA: 408)",167
+PERIODONTIA,85300055,Remoção dos fatores de retenção do Biofilme Dental (Placa Bacteriana) (2 arcadas) (identificação obrigatória no odontograma) (P. inicial) (NORMA: 409),163
+PERIODONTIA,85400246,Órtese miorrelaxante (placa oclusal estabilizadora) (P. Final com placa),840
+PERIODONTIA,00084090,"Proservação pré cirúrgica (1 por orçamento, desde que haja previsão de procedimento cirúrgico) (NORMAS: 403, 410)",168
+PERIODONTIA,82000921,Gengivectomia (por segmento) (P. inicial) (NORMA: 410),365
+PERIODONTIA,82000336,"Cirurgia odontológica a retalho (por segmento) (P. inicial) (NORMAS: 403, 410)",390
+PERIODONTIA,82001464,"Sepultamento radicular (por raiz) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 411)",386
+PERIODONTIA,82000557,"Cunha proximal (por elemento)(P. inicial) (NORMAS: 410, 415)",362
+PERIODONTIA,82000190,Aprofundamento/aumento de vestíbulo (por segmento) (P. inicial) (NORMA: 410),401
+PERIODONTIA,82000689,Enxerto pediculado (por elemento) (P. inicial e P. final) (NORMA: 410),385
+PERIODONTIA,82000662,Enxerto gengival livre (por elemento) (P. inicial e P. final) (NORMA: 410),456
+PERIODONTIA,82000646,Enxerto conjuntivo subepitelial (por elemento) (P. inicial e P. final) (NORMA: 410),457
+PERIODONTIA,82000883,Frenulectomia labial (P. inicial),328
+PERIODONTIA,82000891,Frenulectomia lingual (P. inicial),328
+PERIODONTIA,82000298,Bridectomia (P. inicial),328
+PERIODONTIA,82001073,Odonto-secção (por dente) - Rx periapical inicial e Rx periapical final (P. inicial e P. Final) (NORMA: 411),372
+PERIODONTIA,82000069,"Amputação radicular sem obturação retrógrada (por raiz) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 411)",466
+PERIODONTIA,82000050,"Amputação radicular com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 411)",534
+PERIODONTIA,82000026,"Acompanhamento de tratamento/procedimento cirúrgico em odontologia (1 por orçamento, desde que haja previsão de procedimento cirúrgico) (NORMAS: 403, 410)",167
+PERIODONTIA,82001669,"Tratamento odontológico regenerativo com enxerto de osso autógeno - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 414)",745
+PERIODONTIA,82000212,Aumento de coroa clínica (por elemento) - Rx periapical inicial (P. inicial) (NORMA: 410 ),376
+PERIODONTIA,82000875,"Exodontia simples de permanente - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 411, 415)",201
+PERIODONTIA,82000816,"Exodontia a retalho - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 411, 415 )",261
+PERIODONTIA,82000859,"Exodontia de raiz residual (por raiz) - Rx periapical inicial e Rx periapical final (P. Inicial e P. Final) (NORMAS: 411, 415)",205
+PERIODONTIA,82001286,"Remoção de dentes inclusos / impactados - Rx periapical inicial e Rx periapical final - aceita-se panorâmica (P. inicial e P. final) (NORMAS: 411, 415)",498
+PERIODONTIA,82000034,Alveoloplastia (por segmento) (P. inicial) (NORMA: 416),350
+PERIODONTIA,82001715,Ulotomia,185
+PERIODONTIA,82001707,Ulectomia,204
+PERIODONTIA,82001030,"Incisão e Drenagem intra-oral de abscesso, hematoma e/ou flegmão da região buco-maxilo-facial",300
+PERIODONTIA,82000182,Apicetomia unirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),461
+PERIODONTIA,82000174,Apicetomia unirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),528
+PERIODONTIA,82000085,Apicetomia birradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),546
+PERIODONTIA,82000077,Apicetomia birradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),616
+PERIODONTIA,82000166,Apicetomia multirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),632
+PERIODONTIA,82000158,Apicetomia multirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 410),702
+PERIODONTIA,00084390,"Tratamento regenerativo com uso de barreira (por dente) - enviar etiqueta da barreira para a perícia final - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 413, 414)",1200
+PERIODONTIA,00084400,"Tratamento regenerativo com materiais enxertantes (por dente) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 410, 414)",1111
+PERIODONTIA,82001103,Punção aspirativa na região buco-maxilo-facial,280
+PERIODONTIA,82000239,Biópsia de boca,280
+PERIODONTIA,00084415,Retorno para acompanhamento de lesão bucal (máximo : 3 sessões),130
+PERIODONTIA,82000794,Exérese ou excisão de mucocele,380
+PERIODONTIA,00084500,Halitometria,566
+PERIODONTIA,84000244,Teste de fluxo salivar,102
+PERIODONTIA,84000252,Teste de PH salivar,102
+PERIODONTIA,81000219,Diagnóstico e tratamento de halitose (NORMA: 412),1820
+PERIODONTIA,87000164,Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão)(Perícia inicial com laudo) (NORMA: 417),700
+PERIODONTIA,87000180,Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 417),700
+PERIODONTIA,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM,220
+PERIODONTIA,82001502,Tracionamento cirúrgico com finalidade ortodôntica - Rx periapical inicial (P. Inicial/ P. Final),594
+PRÓTESE,85400599,Planejamento em prótese (modelo de estudo: par; montagem em articulador semi-ajustável) (só para PPR e prótese total) (P. Inicial e Final com apresentação dos modelos),221
+PRÓTESE,81000243,Diagnóstico por meio de enceramento (por elemento) (só para PPR e prótese total) (P. Inicial e Final com apresentação dos elementos encerados),240
+PRÓTESE,00105025,"Análise oclusal para diagnóstico (JIG, modelo de estudo e montagem em articulador) (P. inicial com laudo e Final com apresentação dos modelos e JIG) (NORMA: 501)",219
+PRÓTESE,85400025,"Ajuste Oclusal por desgaste seletivo (por sessão, máximo de 3) (P. Inicial) (NORMA: 500)",167
+PRÓTESE,85400556,"Restauração metálica fundida - Rx periapical inicial e Rx interproximal final (P. inicial e P. Final) (NORMAS: 500, 502, 503, 505, 508)",570
+PRÓTESE,85400505,Remoção de trabalho protético,102
+PRÓTESE,85400467,Recimentação de trabalhos protéticos,150
+PRÓTESE,85400220,Núcleo metálico fundido - Rx periapical inicial e Rx periapical final (P. inicial e P. final),401
+PRÓTESE,87000040,"Coroa de acetato em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",326
+PRÓTESE,87000059,"Coroa de aço em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",326
+PRÓTESE,87000067,"Coroa de policarbonato em dente permanente - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",326
+PRÓTESE,85400076,Coroa provisória com pino (P. inicial) (NORMA: 506),224
+PRÓTESE,85400084,Coroa provisória sem pino (P. inicial) (NORMA: 506),224
+PRÓTESE,00062215,Coroa provisória prensada em resina (só até 2º pré-molar ou com 2 ou mais elementos) (P. inicial) (NORMA: 506),460
+PRÓTESE,85400475,Reembasamento de coroa provisória (max.: 2 por elemento) (NORMA: 506),91
+PRÓTESE,85400092,"Coroa total acrílica prensada (só até canino) - Rx periapical inicial (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",562
+PRÓTESE,85400106,"Coroa total em cerâmica pura - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",2100
+PRÓTESE,85400181,"Faceta em cerâmica pura (só até canino) - Rx periapical inicial (P. inicial e P. final) (NORMAS: 500, 503, 505, 507, 508)",1680
+PRÓTESE,85400157,"Coroa total metalo-cerâmica - Rx periapical inicial e Rx interproximal final (P. inicial e P. Final) (NORMAS: 500, 502, 503, 505, 507, 508)",1680
+PRÓTESE,85400149,"Coroa total metálica - Rx periapical inicial Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 508)",656
+PRÓTESE,85400572,"Coroa 3/4 ou 4/5 - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 508)",657
+PRÓTESE,85400394,Prótese parcial removível provisória em acrílico com ou sem grampos (P. inicial),1113
+PRÓTESE,85400386,Prótese parcial removível com grampos bilateral (P. inicial e P. final) (NORMA: 508),1956
+PRÓTESE,85400483,Reembasamento de prótese total ou parcial - imediato (em consultório) (P. final),577
+PRÓTESE,85400491,Reembasamento de prótese total ou parcial - mediato (em laboratório),577
+PRÓTESE,85400408,Prótese total (P. inicial e P. final) (NORMA: 508),2502
+PRÓTESE,85400610,Prótese total caracterizada (P. inicial e P. final) (NORMA: 508),3136
+PRÓTESE,85400416,Prótese total imediata (P. inicial),1608
+PRÓTESE,85400246,Órtese miorrelaxante (placa oclusal estabilizadora) (P. final com placa),840
+PRÓTESE,00105380,Conserto em prótese total ou parcial,331
+PRÓTESE,00105385,Reparo ou substituição de dentes em prótese total ou parcial,160
+PRÓTESE,85200085,Restauração temporária / tratamento expectante,120
+PRÓTESE,85200026,Preparo para núcleo intrarradicular (NORMA: 504),135
+PRÓTESE,85400513,"Restauração em cerâmica pura - inlay - Rx periapical inicial Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",1147
+PRÓTESE,85400521,"Restauração em cerâmica pura - onlay - Rx periapical inicial Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",1147
+PRÓTESE,85400530,"Restauração em cerômero - onlay - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",1108
+PRÓTESE,85400548,"Restauração em cerômero - inlay - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (NORMAS: 500, 502, 503, 505, 507, 508)",1108
+PRÓTESE,85400114,"Coroa total em cerômero - Rx periapical inicial e Rx interproximal final (P. inicial e P. final) (só até 2º pré-molar) (NORMAS: 500, 502, 503, 505, 507, 508)",985
+PRÓTESE,00105430,Núcleo cerâmico confeccionado em laboratório (só até canino) - Rx periapical inicial e Rx periapical final (P. inicial e P. Final),392
+PRÓTESE,85400262,"Pino pré fabricado (fibra de carbono, fibra de vidro ou metálico) - Rx periapical inicial e Rx periapical final (P. inicial e P. final)",386
+PRÓTESE,85400211,Núcleo de preenchimento em ionômero de vidro ou em resina (P. inicial) (NORMA: 502),228
+PRÓTESE,85200077,Remoção de núcleo intrarradicular - Rx inicial periapical e Rx final periapical (P. inicial e P. final),298
+PRÓTESE,87000164,Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 509),700
+PRÓTESE,87000180,Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 509),700
+PRÓTESE,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM,220
+CIRURGIA,82000875,"Exodontia simples de permanente - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 600, 602, 607)",201
+CIRURGIA,82000816,"Exodontia a retalho - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMAS: 600, 602, 607)",261
+CIRURGIA,82000859,"Exodontia de raiz residual (por raiz) - Rx periapical inicial e Rx periapical final (P. inicial e P. Final) (NORMAS: 600, 602, 607)",205
+CIRURGIA,82000034,Alveoloplastia (por segmento) (P. inicial) (NORMA: 609),350
+CIRURGIA,82001715,Ulotomia,185
+CIRURGIA,82001707,Ulectomia,204
+CIRURGIA,82001502,Tracionamento cirúrgico com finalidade ortodôntica - Rx periapical inicial (P. inicial e P. final) (NORMA: 602),594
+CIRURGIA,82000182,Apicetomia unirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 602),461
+CIRURGIA,82000174,Apicetomia unirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 602),528
+CIRURGIA,82000085,Apicetomia birradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. Final) (NORMA: 602),546
+CIRURGIA,82000077,Apicetomia birradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 602),616
+CIRURGIA,82000166,Apicetomia multirradiculares sem obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 602),632
+CIRURGIA,82000158,Apicetomia multirradiculares com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 602),702
+CIRURGIA,82000883,Frenulectomia labial (P. inicial),328
+CIRURGIA,82000891,Frenulectomia lingual (P. inicial),328
+CIRURGIA,82000212,Aumento de coroa clínica (por elemento) - Rx periapical inicial (P. inicial),376
+CIRURGIA,82000298,Bridectomia (P. inicial),328
+CIRURGIA,82001286,"Remoção de dentes inclusos / impactados - Rx periapical inicial e Rx periapical final - aceita-se panorâmica (P. inicial e P. final) (NORMAS: 600, 602, 607)",498
+CIRURGIA,82000786,Exérese ou excisão de cistos odontológicos - Rx periapical inicial ou outro adequado a verificação da lesão (P. inicial) (NORMA: 601),655
+CIRURGIA,82000794,Exérese ou excisão de mucocele (NORMA: 601),380
+CIRURGIA,82001103,Punção aspirativa na região buco-maxilo-facial (NORMA: 601),280
+CIRURGIA,82000808,Exérese ou excisão de rânula (P. inicial) (NORMA: 601),1500
+CIRURGIA,82000239,Biópsia de boca (NORMA: 601),280
+CIRURGIA,82001251,Reimplante dentário com contenção ( por elemento) - Rx periapical final (P. final),435
+CIRURGIA,82000026,"Acompanhamento de tratamento/procedimento cirúrgico em odontologia (1 por orçamento, desde que haja procedimento cirúrgico previsto)",167
+CIRURGIA,00084090,"Proservação pré-cirúrgica (1 por orçamento, desde que haja procedimento cirúrgico previsto)",168
+CIRURGIA,82001030,"Incisão e Drenagem intra-oral de abscesso, hematoma e/ou flegmão da região buco-maxilo-facial",300
+CIRURGIA,87000164,Sedação consciente com óxido nitroso e oxigênio em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 610),700
+CIRURGIA,87000180,Sedação medicamentosa ambulatorial em pacientes com necessidades especiais em odontologia (por sessão) (Perícia inicial com laudo) (NORMA: 610),700
+CIRURGIA,00084400,Tratamento regenerativo com materiais enxertantes (por dente) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 603),1111
+CIRURGIA,82001464,Sepultamento radicular (por raiz) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 600),386
+CIRURGIA,82000557,Cunha proximal (por elemento) (P. inicial) (NORMA: 608),362
+CIRURGIA,82001073,Odonto-secção (por dente) - Rx periapical inicial e Rx periapical final (P. inicial e P. Final) (NORMA: 600),372
+CIRURGIA,82000069,Amputação radicular sem obturação retrógrada (por raiz) - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 600),466
+CIRURGIA,82000050,Amputação radicular com obturação retrógrada - Rx periapical inicial e Rx periapical final (P. inicial e P. final) (NORMA: 600),534
+CIRURGIA,82001642,Tratamento conservador de luxação da articulação têmporo-mandibular - ATM,220
+CIRURGIA,82001197,Redução simples de luxação de Articulação Têmporo-mandibular (ATM) - Rx inicial (P. inicial),860
+CIRURGIA,82001510,Tratamento cirúrgico das fístulas buco nasal (P. inicial),589
+CIRURGIA,82001529,Tratamento cirúrgico das fístulas buco sinusal (P. inicial),589
+CIRURGIA,82001596,Tratamento cirúrgico de tumores benignos de tecidos ósseos/cartilaginosos na região buco-maxilo-facial - Rx inicial (P. inicial) (NORMA: 604),490
+CIRURGIA,82001618,Tratamento cirúrgico dos tumores benignos de tecidos moles na região buco-maxilo-facial (P. inicial) (NORMA: 605),929
+CIRURGIA,82001634,Tratamento Cirúrgico para tumores odontogênicos benignos - sem reconstrução - Rx inicial (P. inicial) (NORMA: 606),1445
+URGÊNCIAS,81000049,"Consulta odontológica de Urgência (NORMAS: 700, 701, 702, 703)",169
+URGÊNCIAS,81000057,"Consulta odontológica de Urgência 24 hs (NORMAS: 700, 701, 702, 703)",303
+URGÊNCIAS,81000421,"Radiografia periapical (NORMAS: 700, 701, 702, 703)",27
+URGÊNCIAS,00117330,"Restauração temporária / tratamento expectante (NORMAS: 700, 701, 702, 703)",120
+URGÊNCIAS,00117040,"Aplicação de cariostático (4 hemiarcos) (NORMAS: 700, 701, 702, 703)",86
+URGÊNCIAS,00117340,"Restauração em resina fotopolimerizável 1 face (P. Final) (NORMAS: 700, 701, 702, 703, 704, 705)",165
+URGÊNCIAS,00117350,"Restauração em resina fotopolimerizável 2 faces (P. Final) ( NORMAS: 700, 701, 702, 703, 704, 705)",174
+URGÊNCIAS,00117360,"Restauração em resina fotopolimerizável 3 faces (P. Final) (NORMAS: 700, 701, 702, 703, 704, 705)",202
+URGÊNCIAS,00117370,"Restauração em resina fotopolimerizável 4 faces (P. Final) (NORMAS: 700, 701, 702, 703, 704, 705)",247
+URGÊNCIAS,00117080,"Faceta direta em resina fotopolimerizável (P. Final) (NORMAS: 700, 701, 702, 703, 704, 705)",276
+URGÊNCIAS,00117085,"Colagem de fragmentos dentários (por elemento) (P. Final) (NORMAS: 700, 701, 702, 703, 704)",335
+URGÊNCIAS,00117380,"Núcleo de preenchimento em ionômero de vidro ou em resina (só para dentes com endodontia) (P. Final) (NORMAS: 700, 701, 702, 703)",228
+URGÊNCIAS,00117100,"Reimplante dentário com contenção (por elemento) Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703, 704)",435
+URGÊNCIAS,00117110,"Ajuste Oclusal por desgaste seletivo (NORMAS: 700, 701, 702, 703)",167
+URGÊNCIAS,00117115,"Remoção de trabalho protético (NORMAS: 700, 701, 702, 703)",102
+URGÊNCIAS,00117390,"Coroa provisória com pino (NORMAS: 700, 701, 702, 703)",224
+URGÊNCIAS,00117400,"Coroa provisória sem pino (NORMAS: 700, 701, 702, 703)",224
+URGÊNCIAS,00117130,"Recimentação de trabalhos protéticos (NORMAS: 700, 701, 702, 703)",150
+URGÊNCIAS,00117410,"Capeamento pulpar direto (NORMAS: 700, 701, 702, 703)",179
+URGÊNCIAS,00117160,"Pulpotomia (NORMAS: 700, 701, 702, 703)",206
+URGÊNCIAS,00117170,"Tratamento endodôntico em dente decíduo - Rx periapical inicial e Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703)",372
+URGÊNCIAS,00117180,"Pulpectomia (NORMAS: 700, 701, 702, 703)",216
+URGÊNCIAS,00117420,"Incisão e Drenagem intra-oral de abscesso, hematoma e/ou flegmão da região buco-maxilo-facial (NORMAS: 700, 701, 702, 703)",300
+URGÊNCIAS,00117210,"Exodontia simples de decíduo (NORMAS: 700, 701, 702, 703)",117
+URGÊNCIAS,00117220,"Condicionamento em Odontologia (apenas um, referente à consulta de urgência) (NORMAS: 700, 701, 702, 703)",130
+URGÊNCIAS,00117230,"Exodontia simples de permanente - Rx periapical inicial e Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703)",201
+URGÊNCIAS,00117240,"Exodontia a retalho - Rx periapical inicial e Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703)",261
+URGÊNCIAS,00117250,"Exodontia de raiz residual (por raiz) - Rx periapical inicial e Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703)",205
+URGÊNCIAS,00117260,"Remoção de dentes inclusos / impactados - Rx periapical inicial e Rx periapical final (P. Final) (NORMAS: 700, 701, 702, 703)",498
+URGÊNCIAS,00117280,"Acompanhamento de tratamento/procedimento cirúrgico em odontologia (NORMAS: 700, 701, 702, 703)",167
+URGÊNCIAS,00117300,"Tratamento de abscesso periodontal agudo (NORMAS: 700, 701, 702, 703)",209
+URGÊNCIAS,00117310,"Conserto em prótese total ou parcial (NORMAS: 700, 701, 702, 703)",331
+URGÊNCIAS,00117320,"Reparo ou substituição de dentes em prótese total ou parcial (NORMAS: 700, 701, 702, 703)",160
+URGÊNCIAS,00117450,"Imobilização dentária com resina foto (por segmento) (P. Final) (NORMAS: 700, 701, 702, 703)",290
+DISFUNÇÃO TÊMPORO-MANDIBULAR,00128010,"Avaliação para diagnóstico e plano de tratamento de DTM (P. Inicial, com laudo) (Normas: 800, 801)",535
+DISFUNÇÃO TÊMPORO-MANDIBULAR,00128020,"Tratamento de DTM (P. Inicial com laudo e P. Final com relatório) (Normas: 800, 802)",2640
+DISFUNÇÃO TÊMPORO-MANDIBULAR,00128030,"Manutenção mensal do tratamento de DTM (por sessão - até 6 sessões) ( P. Inicial com relatório) (Normas: 800, 803)",206
+DISFUNÇÃO TÊMPORO-MANDIBULAR,00128040,"Administração e infiltração de fármacos (P. Inicial com laudo) (Normas: 800)",130
+DISFUNÇÃO TÊMPORO-MANDIBULAR,00128050,"Sessões de laserterapia (por sessão - máximo 05 sessões por articulação) (P. inicial com laudo)",160
